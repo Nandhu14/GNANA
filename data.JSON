@@ -1,0 +1,35 @@
+{
+  "basics":{
+    "photo":"profile.png",
+    "name":"gnana",
+    "email":"prakash@gmail.com",
+    "mobile":"9642664794",
+    "address":"nagari"
+  },
+  "career":{
+    "info":"This ends up being a pretty sad life.A person is pretty much a computer program written by reward chemicals in your brain. Everytime you do something that gets you the reward signals in your brain...(more)"
+  },
+
+"education":[
+  {
+    "course":"MCA",
+    "college":"SVPCET,PUTTUR",
+    "data":["2016-2019,85%"]
+  },
+  {
+    "course":"BSC.COMPUTERSCIENCE",
+    "college":"GOVERNMENT DEGREE COLLEGE,NAGARI",
+    "data":["2014-2016,83%"]
+  },
+  {
+    "course":"INTERMEDIATE,(MPC)",
+    "college":"GOVERNMENT JUNIOR COLLEGE,NAGARI",
+    "data":["2011-2013,60%"]
+  },
+  {
+    "course":"SSC",
+    "college":"Z.P HIGHSCHOOL,PANNUR",
+    "data":["2010,83%"]
+  }
+]
+}
